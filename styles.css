@@ -1,0 +1,32 @@
+button:hover{
+    background-color: cadetblue;
+    color:brown
+}
+
+    
+
+    
+
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    text-decoration: underline;
+    color:black;
+}
+ul li a{
+    text-decoration: none;
+}
+li{
+    display: inline;
+}
+ul{
+    list-style-type: none;
+}
+.navigation{
+    padding-left: 700px;
+}
+.bar{
+    padding-left: 80px;
+}
